@@ -1,0 +1,4 @@
+test.txt
+*.css
+!test_not_ignore.txt
+test/test_2
